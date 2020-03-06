@@ -14,6 +14,9 @@
     <source src="images/justory/Justory.mp4"></source> 
     <source src="images/justory/Justory.mp4"></source> 
 </video>
+
+# Technology used
+- Google Sign in
 ---
 [Upswing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
