@@ -16,7 +16,7 @@
 </video>
 
 ### Technology used
-- Google Sign in
+- <p style="font-size:11px">Page template forked from </p>
 ---
 [Upswing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
