@@ -12,7 +12,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 <img src="images/justory/Justory.mp4?raw=true"/>
 
-
+<video width="220" height="300" controls preload> 
+    <source src="images/justory/Justory.mp4"></source> 
+    <source src="images/justory/Justory.mp4"></source> 
+</video>
 ---
 [Upswing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
