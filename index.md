@@ -9,7 +9,7 @@
 
 ---
 [Justory](/pdf/sample_presentation.pdf)
-<br></br>
+<br><br>
 
 <video width="300" height="450" controls preload> 
     <source src="images/justory/Justory.mp4"></source> 
@@ -22,13 +22,13 @@
 
 ---
 [Upswing](http://example.com/)
-<br></br>
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Apollo Ride](http://example.com/)
-<br></br>
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
