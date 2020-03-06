@@ -10,6 +10,8 @@
 ---
 [Justory](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/justory/WhatsApp Image 2020-01-11 at 18.00.18.jpeg?raw=true"/>
+
 
 ---
 [Upswing](http://example.com/)
