@@ -15,8 +15,9 @@
     <source src="images/justory/Justory.mp4"></source> 
 </video>
 
-### Technology used
-- <p style="font-size:11px">Page template forked from </p>
+#### _Technology used_
+- <p style="font-size:14px">Google sign in </p>
+`poda poda poda`
 ---
 [Upswing](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
