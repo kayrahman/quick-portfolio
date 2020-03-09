@@ -11,12 +11,12 @@
 [Justory](/pdf/sample_presentation.pdf)
 <br><br>
 
-<img src="images/1.jpeg?raw=true"/>
-<img src="images/2.png?raw=true"/>
-<img src="images/3.png?raw=true"/>
-<img src="images/4.png?raw=true"/>
-<img src="images/5.jpeg?raw=true"/>
-<img src="images/6.jpeg?raw=true"/>
+<img width="300" height="500" src="images/1.jpeg?raw=true"/>
+<img width="300" height="500" src="images/2.png?raw=true"/>
+<img width="300" height="500" src="images/3.png?raw=true"/>
+<img width="300" height="500" src="images/4.png?raw=true"/>
+<img width="300" height="500" src="images/5.jpeg?raw=true"/>
+<img width="300" height="500" src="images/6.jpeg?raw=true"/>
 
 <video width="300" height="450" controls preload> 
     <source src="images/justory/Justory.mp4"></source> 
