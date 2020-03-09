@@ -11,6 +11,13 @@
 [Justory](/pdf/sample_presentation.pdf)
 <br><br>
 
+<img src="images/1?raw=true"/>
+<img src="images/2?raw=true"/>
+<img src="images/3.jpg?raw=true"/>
+<img src="images/4.jpg?raw=true"/>
+<img src="images/5.jpg?raw=true"/>
+<img src="images/6.jpg?raw=true"/>
+
 <video width="300" height="450" controls preload> 
     <source src="images/justory/Justory.mp4"></source> 
     <source src="images/justory/Justory.mp4"></source> 
@@ -18,7 +25,7 @@
 
 #### _Technology used_
 - <p style="font-size:14px">Google sign in </p>
-`poda poda poda`
+
 
 ---
 [Upswing](http://example.com/)
