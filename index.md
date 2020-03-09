@@ -15,8 +15,8 @@
 
 <img width="300" height="500" src="images/3.png?raw=true"/> <img width="300" height="500" src="images/4.png?raw=true"/>
 
-<img width="300" height="500" src="images/5.jpeg?raw=true"/>
-<img width="300" height="500" src="images/6.jpeg?raw=true"/>
+<img width="300" height="500" src="images/5.jpeg?raw=true"/> <img width="300" height="500" src="images/6.jpeg?raw=true"/>
+
 
 <video width="300" height="450" controls preload> 
     <source src="images/justory/Justory.mp4"></source> 
